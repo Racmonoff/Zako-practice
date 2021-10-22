@@ -12,7 +12,7 @@
   width: 100%;
   display: flex;
   justify-content: space-evenly;
-  background-image: url(./images/ic_nav_bg.png);
+  /* background-image: url(./images/ic_nav_bg.png); */
   /* position: fixed; */
 
 }
